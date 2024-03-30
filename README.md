@@ -1,4 +1,4 @@
 # python_basic1
 
-Hello git
+Hello git"\n"
 git add . git commit -n "message" git push
